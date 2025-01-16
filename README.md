@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 📈 GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralnet19&show_icons=true&theme=radical)
 
 ---
 
