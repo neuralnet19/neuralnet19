@@ -39,7 +39,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🤝 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajkumarreddy)
+- 💼 LinkedIn: [RajKumarReddy](https://www.linkedin.com/in/rajkumarreddy)
 
 ---
 
