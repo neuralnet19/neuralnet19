@@ -43,4 +43,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-Feel free to explore my repositories and follow my journey into AI. Let's build something amazing together!>
+Feel free to explore my repositories and follow my journey into AI. Let's build something amazing together!
